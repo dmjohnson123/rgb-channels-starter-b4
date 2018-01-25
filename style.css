@@ -1,7 +1,12 @@
 body{
+    background-image: url(paradise.png) ;
     text-align: center;
 }
 
 h1{
-    font-size: 5em;
+    font-size: 4em;
+}
+
+h2{
+    font-size: 1em;
 }
