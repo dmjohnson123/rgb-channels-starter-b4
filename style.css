@@ -1,12 +1,14 @@
 body{
-    background-image: url(paradise.png) ;
+    background-image: url(beach.png) ;
     text-align: center;
 }
 
 h1{
     font-size: 4em;
+    color: white;
 }
 
 h2{
     font-size: 1em;
+    color: white;
 }
